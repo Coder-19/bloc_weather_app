@@ -1,0 +1,7 @@
+.history/
+.dart_tool/
+/build/
+.packages
+.pub-cache/
+.pub/
+lib/generated_plugin_registrant.dart
